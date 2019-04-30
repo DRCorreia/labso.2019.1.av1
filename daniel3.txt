@@ -1,0 +1,12 @@
+./pasta2/2.txt
+./pasta3/pasta31/3.txt
+./daniel3.txt
+./daniel2.txt
+./daniel20/daniel3.txt
+./daniel20/daniel2.txt
+./daniel20/daniel1.txt
+./pasta1/1.txt
+./daniel1.txt
+daniel1.txt
+daniel2.txt
+daniel3.txt

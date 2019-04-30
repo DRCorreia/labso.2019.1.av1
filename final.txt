@@ -1,0 +1,14 @@
+backup-Daniel
+daniel1.txt
+daniel20
+daniel2.txt
+daniel3.txt
+final.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+prova1-Daniel.txt
+README.md
+ultimocomando.txt
